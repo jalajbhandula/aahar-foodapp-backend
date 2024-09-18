@@ -39,20 +39,13 @@ Here are some screenshots of the application:
   <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Screenshot%20(86).png" alt="Screenshot of the Home Page" width="300" />
 
 - Menu Page
-   <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Screenshot%20(95).png" alt="Screenshot of the Home Page" width="300" />
    <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Mobile%20Menu.png" alt="Screenshot of the Home Page" width="300" />
     
 - Shopping Cart
-   <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Screenshot%20(92).png" alt="Screenshot of the Home Page" width="300" />
-   <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Screenshot%20(90).png" alt="Screenshot of the Home Page" width="300" />
    <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Mobile%20Cart.png" alt="Screenshot of the Home Page" width="300" />
    <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Mobile%20Add%20To%20Cart.png" alt="Screenshot of the Home Page" width="300" />
-   
-- Checkout and Payment
-   <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Screenshot%20(93).png" alt="Screenshot of the Home Page" width="300" />
 
 - Order History
- <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Screenshot%20(97).png" alt="Screenshot of the Home Page" width="300" />
  <img src="https://github.com/jalajbhandula/aahar-foodapp-backend/blob/main/src/main/resources/static/Aahar%20-%20Food%20Application%20Images/Mobile%20Orders.png" alt="Screenshot of the Home Page" width="300" />
  
 ## How to Run
